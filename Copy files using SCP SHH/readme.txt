@@ -1,5 +1,5 @@
 i am trying to send file from one server to another server by using 
-SCP ()
+SCP (Secure Copy Protocol)
 Steps:
 1. install ssh package
 2. start ssh
