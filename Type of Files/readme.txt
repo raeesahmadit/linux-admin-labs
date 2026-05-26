@@ -15,6 +15,9 @@
                      these are in /dev folder
     to make character file : mknod
     to find these : find / -type c
+5. l - link 
 
+6. - regular files
 
+7. d - directory
 
